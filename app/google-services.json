@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "707609153962",
+    "project_id": "my-application-74340"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707609153962:android:4d973ce8611ae520",
+        "android_client_info": {
+          "package_name": "com.example.dhivya.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdgtBKsGaAHbEq5xjINVFmnvbqKQCgf2E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-77404134-1"
+          }
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
